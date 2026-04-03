@@ -27,7 +27,7 @@
 ## 📌 Projetos
 
 🔹 Calculadora em Java  
-👉 (coloque aqui o link do seu repositório depois)
+👉 ([coloque aqui o link do seu repositório depois](https://github.com/JLucasFarias/Calculadora-Java))
 
 ---
 
