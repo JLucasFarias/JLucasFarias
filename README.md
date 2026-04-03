@@ -39,7 +39,7 @@ Busco minha primeira oportunidade como Desenvolvedor Java, com foco em Back-end,
 
 ## 📫 Contato
 
-- LinkedIn: ((https://www.linkedin.com/in/jo%C3%A3o-lucas-farias/)
+- LinkedIn: (https://www.linkedin.com/in/jo%C3%A3o-lucas-farias/)
 
 ---
 
